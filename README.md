@@ -1,4 +1,15 @@
-# vue_template_2
+# vue_template
+
+テンプレートになるかは微妙ですが、以下の構成で動作するサンプルです。
+
+- vue.js
+- CSSフレームワーク
+  - Bulma(https://bulma.io)
+- HTTPクライアント
+  - axios(https://github.com/axios/axios)
+- テストフレームワーク
+  - jest(https://jestjs.io)
+
 
 ## Project setup
 ```
